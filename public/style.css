@@ -1,0 +1,23 @@
+body {
+    background: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+canvas {
+    padding: 0px !important;
+    margin: 0px !important;
+    image-rendering: unset !important;
+}
+
+#fruitNinja {
+    text-align: center;
+}

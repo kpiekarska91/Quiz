@@ -1,0 +1,24 @@
+{
+  "language": "pl",
+  "languages": {
+    "pl": {
+      "btnRules": "INSTRUKCJA",
+      "btnRank": "RANKING",
+      "btnPlay": "ZAGRAJ",
+      "btnStart": "START",
+      "btnMenu": "MENU",
+      "btnRestart": "ZAGRAJ PONOWNIE",
+      "title": "ZASADY",
+      "rules_part_1": "Odpowiedz jak najszybciej na pytania konkursowe.\nZa każdą poprawną odpowiedź otrzymasz 1 punkt.",
+      "rules_part_2": "Masz 15 sekund na każdą odpowiedź na poziomie 1,\n10 sekund na poziomie 2 oraz 5 sekund na poziomie 3.",
+      "rules_part_3": "Każda zaoszczędzona sekunda \nto dodatkowy 1 punkt do Twojego wyniku.",
+      "rules_part_4": "Błędna odpowiedź powoduje zakończenie gry.",
+      "rules_part_5": "Regulamin konkursu dostępny na platformie JTI Go.\n\n",
+      "ranking": "Ranking zostanie umieszczony \ni aktualizowany na JTI GO \nw sekcji Wiadomości.",
+      "ranking_title": "PUNKTY",
+      "ranking_time": "CZAS:",
+      "load_title": "POZIOM",
+      "load_subtitle": "Przygotuj się!"
+    }
+  }
+}
